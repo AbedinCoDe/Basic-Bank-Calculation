@@ -13,7 +13,7 @@ document.getElementById('Submit-Button').addEventListener('click', function () {
 
     // verify the email and password using if function
 
-    if (email === 'Kausarulabedin2010@yahoo.com' && pass === 'Kausar12') {
+    if (email === 'Awesome@coolmail.com' && pass === 'Lool') {
         // window.location.replace("Dashboard.html", '_blank');
         window.open("Dashboard.html", "_blank");
     }
